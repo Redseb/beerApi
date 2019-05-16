@@ -1,4 +1,4 @@
-# RESTful Polish Beer API
+# RESTful Beer API
 *Mikołaj Zyzański*
 
 ## Schema
