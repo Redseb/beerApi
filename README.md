@@ -11,7 +11,7 @@
 **alcoholContent**: *Float*, Percentage amount of alcohol
 **description**: *String*, Description of the beer's taste (i.e. Fruity, goes well with meat)
 
-##Methods
+## Methods
 
 ### Get All Beers
 
@@ -31,7 +31,7 @@
 **Method**: GET
 
 
-###Add A Beer To The Database
+### Add A Beer To The Database
 
 **Endpoint**:
 
@@ -40,7 +40,7 @@
 **Method**: POST
 
 
-###Update Specific Beer (by ID)
+### Update Specific Beer (by ID)
 
 **Endpoint**:
 
@@ -51,7 +51,7 @@
 *Note*: Provide full beer schema in body
 
 
-###Delete Specific Beer (by ID)
+### Delete Specific Beer (by ID)
 
 **Endpoint**:
 
