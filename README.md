@@ -12,28 +12,50 @@
 **description**: *String*, Description of the beer's taste (i.e. Fruity, goes well with meat)
 
 ##Methods
+
 ### Get All Beers
+
 **Endpoint**:
+
 > http://localhost:3000/beers
+
 **Method**: GET
+
 
 ### Get Specific Beer (by ID)
+
 **Endpoint**:
+
 > http://localhost:3000/beers/:id
+
 **Method**: GET
 
+
 ###Add A Beer To The Database
+
 **Endpoint**:
+
 > http://localhost:3000/beers/
+
 **Method**: POST
 
+
 ###Update Specific Beer (by ID)
+
 **Endpoint**:
+
 > http://localhost:3000/beers/:id
+
 **Method**: PATCH
+
 *Note*: Provide full beer schema in body
 
+
 ###Delete Specific Beer (by ID)
+
 **Endpoint**:
+
 > http://localhost:3000/beers/:id
+
 **Method**: DELETE
+
