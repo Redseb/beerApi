@@ -11,7 +11,7 @@ app.use(cors());
 //Import Routes
 const beerRoute = require('./routes/beers');
 
-    //Middleware
+//Middleware
 app.use('/beer', beerRoute);
 
 //Connect to DB
